@@ -1,6 +1,16 @@
 {
-	"name": "Sample.SamplePackage",
-	"references": [],
-	"includePlatforms": [],
-	"excludePlatforms": []
+    "name": "Sample.SamplePackage",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cd14c3fec560f496b9ef68dddbdebdcc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
